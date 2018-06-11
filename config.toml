@@ -1,6 +1,6 @@
 baseurl = "everythingtimes.netlify.com"
 title = "Everything Times"
-theme = "hugo-creative-portfolio-theme"
+theme = "creative-portfolio"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
