@@ -1,4 +1,4 @@
-baseurl = "everythingtimes.netlify.com"
+baseurl = "https://everythingtimes.netlify.com/"
 title = "Everything Times"
 theme = "creative-portfolio"
 languageCode = "en-us"
