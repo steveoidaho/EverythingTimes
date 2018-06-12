@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  repo: steveoidaho/EverythingTimes
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+
+media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: post
+    label: Blog
+    folder: content/posts
+    create: true
+    fields:
+      - { label: "Title",                          name: "title",           widget: "string" }    
+      - { label: "Publish date",                   name: "date",            widget: "datetime" }  
+      - { label: "Only show image on main page",   name: "showonlyimage",   widget: "boolean",      default: "false" }
+      - { label: "Image",                          name: "image",           widget: "file" }
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
