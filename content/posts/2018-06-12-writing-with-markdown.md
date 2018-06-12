@@ -2,11 +2,13 @@
 title: Writing with Markdown
 date: '2018-06-12T04:27:12-06:00'
 image: /img/uploads/markdown.png
-showonlyimage: false
+showonlyimage: true
 ---
 Markdown is a common plain text markup format which aims to be human-readable without any processing required. Its format is similar to conventions often found in plain text emails.
 
-Following are some examples of common usage.
+Following are some examples of common usage. You can also view the [original syntax reference][daring] on John Gruber's blog.
+
+[daring]: https://daringfireball.net/projects/markdown/syntax "John Gruber's Markdown reference"
 
 ## Headers
 
