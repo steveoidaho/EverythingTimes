@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
-  repo: steveoidaho/EverythingTimes
-  branch: master # Branch to update (optional; defaults to master)
+  # repo: owner-name/repo-name # Path to your Github reposit
 publish_mode: editorial_workflow
 
 media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
