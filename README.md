@@ -1,2 +1,1 @@
-# EverythingTimes
-Steve's website
+# Everything Times

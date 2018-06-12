@@ -1,5 +1,5 @@
-baseurl = "https://everythingtimes-1234.netlify.com/"
-title = "Everything Times"
+baseurl = "https://everythingtimes.netlify.com/"
+title = "Creative portfolio"
 theme = "creative-portfolio"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -12,9 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2018 Steve Holsinger"
+  copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "My name is Steve. I'm kickass.",
+    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
+    "Originally from Toronto, currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -33,7 +34,7 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Home"
-  url = "posts/"
+  url = "/"
   home = true
 
   [[params.navlinks]]
