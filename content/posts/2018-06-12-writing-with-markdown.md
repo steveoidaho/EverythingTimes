@@ -81,6 +81,6 @@ will not be added, so whatever you type in a code block is what you get.
 
 ## For the visual learners
 
-If you want to get this information in video format, you can check out this video On YouTube that explains it pretty clearly. 
+If you want to get this information in video format, you can check out this video on YouTube that explains it pretty clearly. 
 
 {{< youtube 2JE66WFpaII >}}
