@@ -34,6 +34,7 @@ You have several options---_italic_, __bold__, even ~~strikethrough~~:
 ### Links
 Links are simple enough. They can be either inline or footnoted.
 This is an [inline link](https://en.wikipedia.org/wiki/Markdown#Example). They can be harder to read, so it's prudent to place them instead as footnotes, like [this][abc].
+
 [abc]: https://en.wikipedia.org/wiki/Markdown "add hover text"
 
 ```markdown
@@ -66,3 +67,5 @@ Just write a `> ` at the beginning of the paragraph being quoted, just like in p
 
 > > They can be nested, too.
 ```
+
+{{< youtube 2JE66WFpaII >}}
