@@ -2,7 +2,7 @@
 title: Writing with Markdown
 date: '2018-06-14T01:05:12-06:00'
 image: /img/uploads/markdown.png
-showonlyimage: false
+showonlyimage: true
 ---
 Markdown is a common plain text markup format which aims to be human-readable without any processing required. Its format is similar to conventions often found in plain text emails.
 <!--more-->
