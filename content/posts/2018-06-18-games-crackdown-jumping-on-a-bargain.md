@@ -2,7 +2,7 @@
 title: Crackdown & Jumping on a Bargain
 date: '2018-06-18T19:01:41-06:00'
 image: /img/uploads/my-post.jpg
-showonlyimage: 'false'
+showonlyimage: true
 ---
 _6/7/19- Newsflash: Crackdown 3 has been delayed to February 2019. Confirmed by Microsoft after the leaked info was published by Kotaku's Jason Schreier the morning of June 7th. 
 _
