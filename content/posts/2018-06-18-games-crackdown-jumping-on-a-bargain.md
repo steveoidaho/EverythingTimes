@@ -1,5 +1,5 @@
 ---
-title: Games- Crackdown & Jumping on a Bargain
+title: Crackdown & Jumping on a Bargain
 date: '2018-06-18T19:01:41-06:00'
 image: /img/uploads/my-post.jpg
 showonlyimage: 'false'
