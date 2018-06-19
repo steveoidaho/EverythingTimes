@@ -2,13 +2,11 @@
 title: Crackdown & Jumping on a Bargain
 date: '2018-06-18T19:01:41-06:00'
 image: /img/uploads/my-post.jpg
-showonlyimage: 'false'
+showonlyimage: false
 ---
-_6/7/19- Newsflash: Crackdown 3 has been delayed to February 2019. Confirmed by Microsoft after the leaked info was published by Kotaku's Jason Schreier the morning of June 7th. 
-_
+## _6/7/19- Newsflash: Crackdown 3 has been delayed to February 2019. Confirmed by Microsoft after the leaked info was published by Kotaku's Jason Schreier the morning of June 7th. _
 
-_Below is my structurally wonky take on the importance and made up origin story of the original Crackdown: 
-_
+_Below is my structurally wonky take on the importance and made up origin story of the original Crackdown: _
 
 The original Crackdown's release on Xbox 360 in February of 2007 drew the interest of the gamer's with the promise of a true to form next-gen superhero experience (oh, and an invitation to the Halo 3 multiplayer beta). While many players would have happily paid 60 of their hard-earned dollars on the chance to kill their buddies on a couple Halo 3 maps I was not so financially free at the time. Pushing 11 years old and my gaming priorities existed on the bottom row of my local game store's shelves. To clarify, I'm talking about the cheap ones.  
 
