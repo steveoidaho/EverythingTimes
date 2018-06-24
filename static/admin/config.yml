@@ -15,6 +15,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish date", name: "date", widget: "datetime"}
+      - {label: "Article summary", name: "description", widget: "markdown"}
       - {label: "Featured image", name: "image", widget: "image"}
       - {label: "Hide text on homepage link", name: "showonlyimage", widget: "boolean", default: "false"}
       - {label: "Body", name: "body", widget: "markdown"}
