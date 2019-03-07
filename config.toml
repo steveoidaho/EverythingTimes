@@ -37,7 +37,7 @@ theme = "mero"
     weight = 400 
 
 [params.introduction]
-   text = "You may have heard about me. My name is Steve. I am a person living in a place. It's pretty nice here. Feel free to, uh, look at my blog, okay? Thanks for coming."
+   text = "This is my blog. You can find many things about me here, but it's still under construction, so please be patient. Thanks!"
 
 [params.social]
   [[params.social.list]]
