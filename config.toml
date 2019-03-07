@@ -4,7 +4,7 @@ title = "Everything Times"
 theme = "mero"
 
 [params]
-  author = "Steve \"Fucking\" Holsinger"
+  author = "Steve Holsinger"
   description = "My awesome blog"
 
 [menu]
